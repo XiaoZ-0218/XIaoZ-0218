@@ -31,7 +31,9 @@ Welcome to my GitHub home!
 ## 📈 AI Coding Activity
 
 <p align="left">
-  <img src="https://tokscale.ai/api/embed/XiaoZ-0218/svg?color=teal&graph=1&rank=percent&tokens=full&cost=full" alt="XiaoZ-0218's coding activity" />
+  <a href="https://tokscale.ai/u/XiaoZ-0218">
+    <img src="https://tokscale.ai/api/embed/XiaoZ-0218/svg?color=teal&graph=1&rank=percent&tokens=full&cost=full" alt="XiaoZ-0218's coding activity" />
+  </a>
 </p>
 
 ---
