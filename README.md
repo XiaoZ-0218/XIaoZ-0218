@@ -1,6 +1,6 @@
 # Hi there, I'm ZhangXiao👋
 
-Welcome to my GitHub home!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=26&pause=1000&color=61C2C3&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+home+!!)](https://git.io/typing-svg)
 
 > A curious developer who loves building things, solving problems, and learning something new every day.
 
@@ -36,15 +36,6 @@ Welcome to my GitHub home!
   <a href="https://tokscale.ai/u/XiaoZ-0218">
     <img src="https://tokscale.ai/api/embed/XiaoZ-0218/svg?color=teal&graph=1&rank=percent&tokens=full&cost=full" alt="XiaoZ-0218's coding activity" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XiaoZ-0218&show_icons=true&theme=default&include_all_commits=true" alt="XiaoZ-0218's GitHub stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XiaoZ-0218&layout=compact&theme=default" alt="XiaoZ-0218's top languages" />
 </p>
 
 ---
