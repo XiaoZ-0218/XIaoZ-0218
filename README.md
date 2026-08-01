@@ -40,6 +40,15 @@ Welcome to my GitHub home!
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=XiaoZ-0218&show_icons=true&theme=default" alt="XiaoZ-0218's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoZ-0218&layout=compact&theme=default" alt="XiaoZ-0218's top languages" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 Here are some projects I’m proud of:
