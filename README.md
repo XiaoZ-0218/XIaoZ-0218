@@ -48,10 +48,9 @@ Here are some projects I’m proud of:
 |---------|-------------|------|
 | [Qweather-IOS-Web-App](https://github.com/XiaoZ-0218/Qweather-IOS-Web-App) | A weather web app with an iOS-style UI | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [salary-clock](https://github.com/XiaoZ-0218/salary-clock) | It's not that I choose to work, it's that money chose me. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [kimi-usage](https://github.com/XiaoZ-0218/kimi-usage) | Tools & notes for using Kimi | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [salary-clock-vscode](https://github.com/XiaoZ-0218/salary-clock-vscode) | 哄我上班 — a real-time salary clock living in your VS Code status bar | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [logo-generator](https://github.com/XiaoZ-0218/logo-generator) | Pusheen-style dress-up avatar generator with vector assets | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [github-gitea-sync](https://github.com/XiaoZ-0218/github-gitea-sync) | One-way mirror all your GitHub repos to a self-hosted Gitea | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [lumia](https://github.com/XiaoZ-0218/lumia) | A WYSIWYG Markdown editor that looks and feels like Typora | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [kimi-usage](https://github.com/XiaoZ-0218/kimi-usage) | Tools & notes for using Kimi | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
@@ -72,7 +71,6 @@ VSCode extensions I built:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [meimaid-editor](https://github.com/XiaoZ-0218/meimaid-editor) | Real-time preview & graphical editor for Mermaid diagrams in Markdown | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [salary-clock-vscode](https://github.com/XiaoZ-0218/salary-clock-vscode) | 哄我上班 — real-time salary clock in your status bar | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [kimi-code-for-copilot](https://github.com/XiaoZ-0218/kimi-code-for-copilot) | Integrate Kimi Code with GitHub Copilot | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [kimi-usage](https://github.com/XiaoZ-0218/kimi-usage) | Kimi usage tips & tools | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
@@ -87,8 +85,8 @@ Copilot Agent skills, reusable across agents:
 | Project | Description | Tech |
 |---------|-------------|------|
 | [multi-agent-workflow](https://github.com/XiaoZ-0218/multi-agent-workflow) | Production-grade multi-agent orchestration workflow for Orca IDE | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| [use-grok-skill](https://github.com/XiaoZ-0218/use-grok-skill) | Use Grok in any agent | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [skill-coding-instructions](https://github.com/XiaoZ-0218/skill-coding-instructions) | Personal coding instruction skillset | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| [use-grok](https://github.com/XiaoZ-0218/use-grok) | Use Grok in any agent | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [coding-instructions](https://github.com/XiaoZ-0218/coding-instructions) | Personal coding instruction skillset | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 
 ---
 
