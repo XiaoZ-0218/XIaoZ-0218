@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chewy&size=26&pause=1000&color=61C2C3&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+home+!!)](https://git.io/typing-svg)
 
-> A curious developer who loves building things, solving problems, and learning something new every day.
+> Building agent skills, local tools, and small apps I actually use every day.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=XiaoZ-0218&color=blue)
 
@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **VSCode extensions, multi-agent workflows, avatar tooling, Mermaid utilities, and edge automation**.
-- 🌱 I’m currently learning **TypeScript, GitHub Copilot / Orca IDE integrations, and Cloudflare edge services**.
+- 🔭 I’m currently working on **personal agent skills** (one repo per skill), plus small tools for flights, plane spotting, Markdown editing, and a homelab/NAS.
+- 🌱 I’m currently learning **agent harnesses (ZCode / Claude Code), skill authoring, and keeping local services reliable**.
 
 
 ---
@@ -46,6 +46,8 @@ Here are some projects I’m proud of:
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Find a flight by number and date, then save its ADS-B track as KML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Find rare / special-livery aircraft worth spotting today | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [Qweather-IOS-Web-App](https://github.com/XiaoZ-0218/Qweather-IOS-Web-App) | A weather web app with an iOS-style UI | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [salary-clock](https://github.com/XiaoZ-0218/salary-clock) | It's not that I choose to work, it's that money chose me. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [salary-clock-vscode](https://github.com/XiaoZ-0218/salary-clock-vscode) | 哄我上班 — a real-time salary clock living in your VS Code status bar | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
@@ -80,13 +82,15 @@ VSCode extensions I built:
 
 ## 🧩 Skills
 
-Copilot Agent skills, reusable across agents:
+Personal agent skills — each one is its own repo:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [multi-agent-workflow](https://github.com/XiaoZ-0218/multi-agent-workflow) | Production-grade multi-agent orchestration workflow for Orca IDE | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| [use-grok](https://github.com/XiaoZ-0218/use-grok) | Use Grok in any agent | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [coding-instructions](https://github.com/XiaoZ-0218/coding-instructions) | Personal coding instruction skillset | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| [coding-instructions](https://github.com/XiaoZ-0218/coding-instructions) | Karpathy-style minimalism + Conventional Commits + feature-branch workflow | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| [use-grok](https://github.com/XiaoZ-0218/use-grok) | Delegate Q&A, review, critique, and images to the Grok CLI | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Flight number + date → KML track for Google Earth | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Today's rare / special-livery aircraft at a city | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [multi-agent-workflow](https://github.com/XiaoZ-0218/multi-agent-workflow) | Multi-agent orchestration workflow | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
 ---
 
