@@ -48,11 +48,10 @@ Here are some projects I’m proud of:
 |---------|-------------|------|
 | [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Find a flight by number and date, then save its ADS-B track as KML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Find rare / special-livery aircraft worth spotting today | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [Qweather-IOS-Web-App](https://github.com/XiaoZ-0218/Qweather-IOS-Web-App) | A weather web app with an iOS-style UI | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [use-grok](https://github.com/XiaoZ-0218/use-grok) | Delegate Q&A, review, critique, and images to the Grok CLI | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [coding-instructions](https://github.com/XiaoZ-0218/coding-instructions) | Karpathy-style minimalism + Conventional Commits + feature branches | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | [salary-clock](https://github.com/XiaoZ-0218/salary-clock) | It's not that I choose to work, it's that money chose me. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [salary-clock-vscode](https://github.com/XiaoZ-0218/salary-clock-vscode) | 哄我上班 — a real-time salary clock living in your VS Code status bar | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [lumia](https://github.com/XiaoZ-0218/lumia) | A WYSIWYG Markdown editor that looks and feels like Typora | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [kimi-usage](https://github.com/XiaoZ-0218/kimi-usage) | Tools & notes for using Kimi | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ---
 
@@ -107,13 +106,8 @@ GitHub Actions workflows I built:
 
 ## 🔀 Forked Projects
 
-Forked projects from open source I'm learning from:
-
 - [deepseek-pilot](https://github.com/XiaoZ-0218/deepseek-pilot) — DeepSeek V4 Pro & Flash in GitHub Copilot Chat
-- [Rin](https://github.com/XiaoZ-0218/Rin) — Edge-native blog powered by Cloudflare Workers, D1, and R2
 - [cloud-mail](https://github.com/XiaoZ-0218/cloud-mail) — Cloudflare-based email service
-- [Fluid-Weiqi](https://github.com/XiaoZ-0218/Fluid-Weiqi) — A Weiqi (Go) variant where the stones are fluid
-- [microfeed](https://github.com/XiaoZ-0218/microfeed) — Lightweight CMS self-hosted on Cloudflare
 
 ---
 
