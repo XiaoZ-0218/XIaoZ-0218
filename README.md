@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **personal agent skills** (one repo per skill), plus small tools for flights, plane spotting, Markdown editing, and a homelab/NAS.
+- 🔭 I’m currently working on **personal agent skills** (one repo per skill), plus small tools for flights, plane spotting, Markdown editing, macOS menu bar apps, and a homelab/NAS.
 - 🌱 I’m currently learning **agent harnesses (ZCode / Claude Code), skill authoring, and keeping local services reliable**.
 
 
@@ -27,6 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
@@ -46,6 +47,9 @@ Here are some projects I’m proud of:
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [vscode-extension-board](https://github.com/XiaoZ-0218/vscode-extension-board) | A curated board of 158 VS Code extensions with live Marketplace data | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [tokscale-bar](https://github.com/XiaoZ-0218/tokscale-bar) | macOS menu bar dashboard for tokscale AI token usage — bilingual SwiftUI | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
+| [who-knows](https://github.com/XiaoZ-0218/who-knows) | Tonight's game board: what to play on Steam, PS5, and Switch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Find a flight by number and date, then save its ADS-B track as KML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Find rare / special-livery aircraft worth spotting today | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [use-grok](https://github.com/XiaoZ-0218/use-grok) | Delegate Q&A, review, critique, and images to the Grok CLI | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
@@ -59,6 +63,9 @@ Here are some projects I’m proud of:
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [bt-search](https://github.com/XiaoZ-0218/bt-search) | Search BT sites for movies/TV and fetch magnet links — CLI + agent skill | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [ABI-Tools-Hub](https://github.com/XiaoZ-0218/ABI-Tools-Hub) | Unified Web console + TUI entry for the ABI tool suite | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Qweather-IOS-Web-App](https://github.com/XiaoZ-0218/Qweather-IOS-Web-App) | iOS-style weather web app powered by QWeather | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [learn-mermaid](https://github.com/XiaoZ-0218/learn-mermaid) | A complete Chinese learning guide for Mermaid diagrams | ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | [md-web](https://github.com/XiaoZ-0218/md-web) | A lightweight Markdown-based web project | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | [unfair-coin-game](https://github.com/XiaoZ-0218/unfair-coin-game) | A simple coin game experiment | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
@@ -90,6 +97,7 @@ Personal agent skills — each one is its own repo:
 | [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Flight number + date → KML track for Google Earth | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Today's rare / special-livery aircraft at a city | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [multi-agent-workflow](https://github.com/XiaoZ-0218/multi-agent-workflow) | Multi-agent orchestration workflow | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| [bt-search](https://github.com/XiaoZ-0218/bt-search) | Search BT sites and fetch magnet / Thunder links | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
@@ -104,10 +112,36 @@ GitHub Actions workflows I built:
 
 ---
 
+## 🤝 Open Source Contributions
+
+Merged PRs to other people's repos:
+
+| Repo | Stars | PR | What I did |
+|------|-------|----|-----------|
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ![Stars](https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square) | [#904](https://github.com/milind-soni/OpenMausBot/pull/904) | fix(settings): Close settings X works after editing SOUL.md |
+| [libredb/libredb-studio](https://github.com/libredb/libredb-studio) | ![Stars](https://img.shields.io/github/stars/libredb/libredb-studio?style=flat-square) | [#642](https://github.com/libredb/libredb-studio/pull/642) | docs(providers): drop dead `getPlaceholder` mentions |
+| [jayminwest/warren](https://github.com/jayminwest/warren) | ![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square) | [#1253](https://github.com/jayminwest/warren/pull/1253) | fix(ci): install extensions before bundle-size `build:ui` |
+| [jayminwest/warren](https://github.com/jayminwest/warren) | ![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square) | [#1251](https://github.com/jayminwest/warren/pull/1251) | fix(ci): install UI workspace before ci-postgres tests |
+| [setsey/deepseek-pilot](https://github.com/setsey/deepseek-pilot) | ![Stars](https://img.shields.io/github/stars/setsey/deepseek-pilot?style=flat-square) | [#1](https://github.com/setsey/deepseek-pilot/pull/1) | feat: add Chinese (zh-cn) localization / 添加中文界面汉化 |
+
+---
+
 ## 🔀 Forked Projects
 
 - [deepseek-pilot](https://github.com/XiaoZ-0218/deepseek-pilot) — DeepSeek V4 Pro & Flash in GitHub Copilot Chat
 - [cloud-mail](https://github.com/XiaoZ-0218/cloud-mail) — Cloudflare-based email service
+- [warren](https://github.com/XiaoZ-0218/warren) — Run coding agents like infrastructure, not terminal sessions
+- [ping-island](https://github.com/XiaoZ-0218/ping-island) — Dynamic Island-style command center for AI coding agents on macOS
+- [Easydict](https://github.com/XiaoZ-0218/Easydict) — A concise and elegant dictionary & translator macOS app
+- [uttrflow-swift](https://github.com/XiaoZ-0218/uttrflow-swift) — Native macOS clipboard manager with on-device dictation
+- [cloudflare_temp_email](https://github.com/XiaoZ-0218/cloudflare_temp_email) — Cloudflare free temp domain email with IMAP / SMTP / Telegram Bot
+- [libredb-studio](https://github.com/XiaoZ-0218/libredb-studio) — Open-source SQL IDE for PostgreSQL, MySQL, MongoDB, Redis and more
+- [cve-lite-cli](https://github.com/XiaoZ-0218/cve-lite-cli) — Fast JS/TS dependency vulnerability scanner with local lockfile scanning
+- [workers-sdk](https://github.com/XiaoZ-0218/workers-sdk) — Home of Wrangler, the CLI for Cloudflare Workers
+- [agents](https://github.com/XiaoZ-0218/agents) — Build and deploy AI agents on Cloudflare
+- [nhost](https://github.com/XiaoZ-0218/nhost) — The open-source Firebase alternative with GraphQL
+- [OpenMausBot](https://github.com/XiaoZ-0218/OpenMausBot) — Open-source alternative to Grok Bot with a VM bots can use
+- [Silex](https://github.com/XiaoZ-0218/Silex) — Online tool for visually building static sites with dynamic data
 
 ---
 
