@@ -118,7 +118,10 @@ Merged PRs to other people's repos:
 
 | Repo | Stars | PR | What I did |
 |------|-------|----|-----------|
+| [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) | ![Stars](https://img.shields.io/github/stars/cloudflare/workers-sdk?style=flat-square) | [#15554](https://github.com/cloudflare/workers-sdk/pull/15554) | fix(wrangler): include `transferred_classes` in DurableObjectMigration schema |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ![Stars](https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square) | [#904](https://github.com/milind-soni/OpenMausBot/pull/904) | fix(settings): Close settings X works after editing SOUL.md |
+| [erha19/ping-island](https://github.com/erha19/ping-island) | ![Stars](https://img.shields.io/github/stars/erha19/ping-island?style=flat-square) | [#307](https://github.com/erha19/ping-island/pull/307) | Prevent idle sleep while sessions are working |
+| [libredb/libredb-studio](https://github.com/libredb/libredb-studio) | ![Stars](https://img.shields.io/github/stars/libredb/libredb-studio?style=flat-square) | [#650](https://github.com/libredb/libredb-studio/pull/650) | docs: stop crediting SQLBaseProvider with placeholders |
 | [libredb/libredb-studio](https://github.com/libredb/libredb-studio) | ![Stars](https://img.shields.io/github/stars/libredb/libredb-studio?style=flat-square) | [#642](https://github.com/libredb/libredb-studio/pull/642) | docs(providers): drop dead `getPlaceholder` mentions |
 | [jayminwest/warren](https://github.com/jayminwest/warren) | ![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square) | [#1253](https://github.com/jayminwest/warren/pull/1253) | fix(ci): install extensions before bundle-size `build:ui` |
 | [jayminwest/warren](https://github.com/jayminwest/warren) | ![Stars](https://img.shields.io/github/stars/jayminwest/warren?style=flat-square) | [#1251](https://github.com/jayminwest/warren/pull/1251) | fix(ci): install UI workspace before ci-postgres tests |
