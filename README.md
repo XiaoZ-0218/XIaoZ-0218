@@ -48,7 +48,7 @@ Here are some projects I’m proud of:
 | Project | Description | Tech |
 |---------|-------------|------|
 | [vscode-extension-board](https://github.com/XiaoZ-0218/vscode-extension-board) | A curated board of 158 VS Code extensions with live Marketplace data | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [tokscale-bar](https://github.com/XiaoZ-0218/tokscale-bar) | macOS menu bar dashboard for tokscale AI token usage — bilingual SwiftUI | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
+| [tokscale-bar](https://github.com/XiaoZ-0218/tokscale-bar) | macOS menu bar dashboard for tokscale AI token usage — bilingual, zero-dependency SwiftUI | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
 | [who-knows](https://github.com/XiaoZ-0218/who-knows) | Tonight's game board: what to play on Steam, PS5, and Switch | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [flight-kml-search](https://github.com/XiaoZ-0218/flight-kml-search) | Find a flight by number and date, then save its ADS-B track as KML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [rare-plane-spotter](https://github.com/XiaoZ-0218/rare-plane-spotter) | Find rare / special-livery aircraft worth spotting today | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
@@ -118,6 +118,9 @@ Merged PRs to other people's repos:
 
 | Repo | Stars | PR | What I did |
 |------|-------|----|-----------|
+| [silexlabs/Silex](https://github.com/silexlabs/Silex) | ![Stars](https://img.shields.io/github/stars/silexlabs/Silex?style=flat-square) | [#1851](https://github.com/silexlabs/Silex/pull/1851) | fix(editor): emit text-align justify instead of justified |
+| [apple/swift-configuration](https://github.com/apple/swift-configuration) | ![Stars](https://img.shields.io/github/stars/apple/swift-configuration?style=flat-square) | [#221](https://github.com/apple/swift-configuration/pull/221) | ci: test trait combinations on latest Swift |
+| [OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli) | ![Stars](https://img.shields.io/github/stars/OWASP/cve-lite-cli?style=flat-square) | [#1102](https://github.com/OWASP/cve-lite-cli/pull/1102) | chore(cyclonedx): emit metadata.tools in the 1.6 components form |
 | [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) | ![Stars](https://img.shields.io/github/stars/cloudflare/workers-sdk?style=flat-square) | [#15554](https://github.com/cloudflare/workers-sdk/pull/15554) | fix(wrangler): include `transferred_classes` in DurableObjectMigration schema |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | ![Stars](https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square) | [#904](https://github.com/milind-soni/OpenMausBot/pull/904) | fix(settings): Close settings X works after editing SOUL.md |
 | [erha19/ping-island](https://github.com/erha19/ping-island) | ![Stars](https://img.shields.io/github/stars/erha19/ping-island?style=flat-square) | [#307](https://github.com/erha19/ping-island/pull/307) | Prevent idle sleep while sessions are working |
@@ -131,6 +134,8 @@ Merged PRs to other people's repos:
 
 ## 🔀 Forked Projects
 
+- [graphql](https://github.com/XiaoZ-0218/graphql) — RedwoodGraphQL
+- [swift-configuration](https://github.com/XiaoZ-0218/swift-configuration) — Apple's API package for reading configuration
 - [deepseek-pilot](https://github.com/XiaoZ-0218/deepseek-pilot) — DeepSeek V4 Pro & Flash in GitHub Copilot Chat
 - [cloud-mail](https://github.com/XiaoZ-0218/cloud-mail) — Cloudflare-based email service
 - [warren](https://github.com/XiaoZ-0218/warren) — Run coding agents like infrastructure, not terminal sessions
